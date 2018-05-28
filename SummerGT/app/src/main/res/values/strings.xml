@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">SummerGT</string>
     <string name="title_activity_maps">Map</string>
-    <string name = "send">SEND</string>
-    <string name = "phone">Phone Number</string>
+    <string name="send">SEND</string>
+    <string name="phone">Phone Number</string>
 </resources>
